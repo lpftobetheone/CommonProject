@@ -1,0 +1,24 @@
+<resources>
+
+    <!--去掉ActionBar-->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--状态栏颜色-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--toolbar 背景颜色-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="BtnOrangeStyle" parent="MatchWrap">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/textSize_14</item>
+        <item name="android:padding">@dimen/middle</item>
+        <item name="android:layout_margin">@dimen/small</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_btn_orange</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+</resources>

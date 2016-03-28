@@ -24,6 +24,10 @@ public class App extends Application{
                 .build().create(Engine.class);
     }
 
+    /**
+     * 单例
+     * @return
+     */
     public static App getInstance(){
         return mInstance;
     }

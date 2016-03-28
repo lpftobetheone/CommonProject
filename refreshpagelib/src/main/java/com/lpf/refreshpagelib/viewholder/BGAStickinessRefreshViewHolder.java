@@ -14,13 +14,17 @@
  * limitations under the License.
  */
 
-package com.lpf.refreshpagelib;
+package com.lpf.refreshpagelib.viewholder;
 
 import android.content.Context;
 import android.graphics.Color;
 import android.support.annotation.ColorRes;
 import android.support.annotation.DrawableRes;
 import android.view.View;
+
+import com.lpf.refreshpagelib.BGARefreshViewHolder;
+import com.lpf.refreshpagelib.R;
+import com.lpf.refreshpagelib.view.BGAStickinessRefreshView;
 
 /**
  * 作者:王浩 邮件:bingoogolapple@gmail.com

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lpf.refreshpagelib;
+package com.lpf.refreshpagelib.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -30,6 +30,8 @@ import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.View;
 
+import com.lpf.refreshpagelib.BGARefreshLayout;
+import com.lpf.refreshpagelib.viewholder.BGAStickinessRefreshViewHolder;
 import com.nineoldandroids.animation.Animator;
 import com.nineoldandroids.animation.ValueAnimator;
 

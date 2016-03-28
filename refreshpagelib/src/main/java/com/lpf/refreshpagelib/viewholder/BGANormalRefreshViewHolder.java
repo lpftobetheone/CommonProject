@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lpf.refreshpagelib;
+package com.lpf.refreshpagelib.viewholder;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -24,6 +24,9 @@ import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.lpf.refreshpagelib.BGARefreshViewHolder;
+import com.lpf.refreshpagelib.R;
 
 /**
  * 作者:王浩 邮件:bingoogolapple@gmail.com

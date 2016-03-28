@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lpf.refreshpagelib;
+package com.lpf.refreshpagelib.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;

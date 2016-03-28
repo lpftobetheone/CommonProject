@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lpf.refreshpagelib;
+package com.lpf.refreshpagelib.view;
 
 import android.content.Context;
 import android.graphics.drawable.AnimationDrawable;
@@ -24,6 +24,8 @@ import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+
+import com.lpf.refreshpagelib.R;
 
 /**
  * 作者:王浩 邮件:bingoogolapple@gmail.com
